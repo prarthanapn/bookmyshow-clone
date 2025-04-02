@@ -28,7 +28,7 @@ BookMyShow-2.0 is a **React.js** and **Bootstrap**-based web application that re
 ![Navbar]
 (![NavbarandCarousel](https://github.com/user-attachments/assets/658b3530-1bc5-40dc-87a1-9b96c6e7b4a6))  
 (![Sports page](https://github.com/user-attachments/assets/b4f51e9e-92b0-475e-b035-f8b4267277c5))
-*![Event Page](https://github.com/user-attachments/assets/fbf679c2-13bb-4c8b-9be1-3075fb1887fc)
+![Event Page](https://github.com/user-attachments/assets/fbf679c2-13bb-4c8b-9be1-3075fb1887fc)
 
 ---
 
@@ -76,7 +76,7 @@ BookMyShow-2.0 is a **React.js** and **Bootstrap**-based web application that re
 
 
 **Preview:**
-![Buttons](![Embeddedyoutubevideo](https://github.com/user-attachments/assets/80a8279a-83d2-47d6-aa46-c9fe85fa7de9))  
+![Buttons](![Embeddedyoutubevideo](https://github.com/user-attachments/assets/80a8279a-83d2-47d6-aa46-c9fe85fa7de9)
 
 
 ---
