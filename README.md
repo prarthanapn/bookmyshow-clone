@@ -8,7 +8,8 @@ BookMyShow-2.0 is a **React.js** and **Bootstrap**-based web application that re
 ![Homepage Preview]
 *(![Splash screen](https://github.com/user-attachments/assets/27193296-646e-4d1b-a25b-9fe47b346ced))  
 *(![Signin_signup page](https://github.com/user-attachments/assets/75b6eb9c-016b-434b-8b59-f8fb062fe11e)
-*![Event Page](https://github.com/user-attachments/assets/fbf679c2-13bb-4c8b-9be1-3075fb1887fc)
+*![responive](https://github.com/user-attachments/assets/8f4c6060-ecd3-499a-bea7-f0efd596876f)
+
 
 
 ---
@@ -27,7 +28,7 @@ BookMyShow-2.0 is a **React.js** and **Bootstrap**-based web application that re
 ![Navbar]
 (![NavbarandCarousel](https://github.com/user-attachments/assets/658b3530-1bc5-40dc-87a1-9b96c6e7b4a6))  
 (![Sports page](https://github.com/user-attachments/assets/b4f51e9e-92b0-475e-b035-f8b4267277c5))
-
+*![Event Page](https://github.com/user-attachments/assets/fbf679c2-13bb-4c8b-9be1-3075fb1887fc)
 
 ---
 
@@ -58,6 +59,10 @@ BookMyShow-2.0 is a **React.js** and **Bootstrap**-based web application that re
 
 **Preview:**
 ![Movie List]
+![Movies list with button styling](https://github.com/user-attachments/assets/5322b9b5-8af5-49dd-a2cf-e77854a4b53b)
+![ticket booking](https://github.com/user-attachments/assets/a22cba08-e906-48fc-b27b-4725cc4e5d89)
+![image](https://github.com/user-attachments/assets/c97db771-a35b-483f-ba09-ca2b2f01d39d)
+
 (![filteroption](https://github.com/user-attachments/assets/f65deeb5-a9c2-49d1-8974-e618cb644853))  
 
 
